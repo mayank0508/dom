@@ -20,5 +20,5 @@ button.addEventListener('click', () => {
     // }
 
     // ul.classList.toggle('visible');
-    ul.classList.toggle('invisible');
+    ul.classList.toggle('invisible'); // this code will put on the invisible code in the html file when the toggle button is clicked.
 });
